@@ -28,5 +28,5 @@ Completion Toggle: Users can mark subtasks as complete, visually indicating prog
 Sidebar Management: Users can show or hide the board sidebar for a more focused view.
 
 # Technical Stack
-Frontend : React.js
+Frontend : React.js '/n'
 Backend :  Node.js, Express.js, MongoDB
