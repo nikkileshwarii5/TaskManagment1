@@ -30,3 +30,8 @@ Sidebar Management: Users can show or hide the board sidebar for a more focused 
 # Technical Stack
 # Frontend : React.js
 # Backend :  Node.js, Express.js, MongoDB
+
+
+
+![Screenshot 1](Screenshot (226).png)
+
