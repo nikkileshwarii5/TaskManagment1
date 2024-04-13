@@ -28,9 +28,5 @@ Completion Toggle: Users can mark subtasks as complete, visually indicating prog
 Sidebar Management: Users can show or hide the board sidebar for a more focused view.
 
 # Technical Stack
-Frontend
-React.js: Utilized for its efficient rendering and state management capabilities, enhancing the UX with interactive and dynamic content.
-Backend
-Node.js & Express.js: These technologies provide a robust server framework that enables quick and scalable API development.
-MongoDB: Chosen for its NoSQL features allowing flexible data schema, which is ideal for the dynamic structure of boards, columns, and tasks.
-Expected Behavior
+Frontend : React.js
+Backend :  Node.js, Express.js, MongoDB
