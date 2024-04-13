@@ -10,7 +10,7 @@ Interactive Elements: Interactive elements on the page display hover states, enh
 Multiple Boards: Users can create, read, update, and delete boards.
 # Board Switching:
 Clicking different boards in the sidebar updates the view to the selected board.
-# New Board Creation:
+# New Board Creation
 A modal for adding new boards is accessible via the "Create New Board" button in the sidebar.
 Board Editing: Access board settings through the dropdown menu to edit details or manage columns.
 Board Deletion: Supports secure deletion of boards with confirmation prompts.
@@ -28,9 +28,9 @@ Completion Toggle: Users can mark subtasks as complete, visually indicating prog
 Sidebar Management: Users can show or hide the board sidebar for a more focused view.
 
 # Technical Stack
-# Frontend
+Frontend
 React.js: Utilized for its efficient rendering and state management capabilities, enhancing the UX with interactive and dynamic content.
-# Backend
+Backend
 Node.js & Express.js: These technologies provide a robust server framework that enables quick and scalable API development.
 MongoDB: Chosen for its NoSQL features allowing flexible data schema, which is ideal for the dynamic structure of boards, columns, and tasks.
 Expected Behavior
