@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .button {
+    background-color: #635fc7;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    color: #fff;
+    font-size: 1.25rem;
+    font-weight: 600;
+    transition-property: background-color, opacity;
+    transition-duration: 200ms;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+
+.dropdown {
+  background-color: rgba(0, 0, 0, 0.5); /* Use rgba for opacity */
+}
+
+.filter-white {
+  filter: invert(100%) sepia(96%) saturate(16%) hue-rotate(350deg) brightness(104%) contrast(100%);
+}
+
+.select-status {
+  background-image: url("./assets1/icon-chevron-down.svg");
+  appearance: none;
+  background-repeat: no-repeat;
+  background-position: right 16px top 50%;
+}

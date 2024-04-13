@@ -1,0 +1,90 @@
+/* nav {
+    background-color: #333; 
+    padding: 10px; 
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  nav a {
+    color: #fff; 
+    text-decoration: none;
+    margin-right: 20px; 
+    padding: 5px 10px; 
+    margin-right: 30px;
+    
+  }
+  
+  nav a:hover {
+    background-color: #555; 
+  }
+  .logo {
+    width: 50px; 
+    height: auto; 
+    margin-right: 10px; 
+    margin-left: 10px;
+  }
+  nav p{
+    color: orange;
+    font-size: 25px;
+    font-family:monospace ;
+  } */
+
+  nav {
+    display: flex; /* Use flexbox to align items */
+    justify-content: space-between; /* Align items to the start and end of the container */
+    align-items: center; /* Center items vertically */
+    background-color: #333; 
+    padding: 10px; 
+  }
+  
+  .navbar-brand {
+    display: flex; /* Use flexbox to align items */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .navbar-brand img {
+    width: 50px; /* Adjust logo width if necessary */
+    height: auto; 
+    margin-right: 10px; 
+  }
+  
+  .navbar-brand p {
+    margin: 0; /* Remove any default margin */
+    color: #ebe9f0; /* Set text color */
+    font-size: 1.5rem; /* Adjust font size as needed */
+    font-family: monospace;
+  }
+  
+  .nav a {
+    color: #fff; 
+    text-decoration: none;
+    margin-left: 10px; /* Add margin to the left of links */
+  }
+  
+  .nav a:hover {
+    background-color: #555; 
+  }
+  .navbar-links {
+    display: flex;
+    justify-content: center;
+
+    flex: 1;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 50px;
+    
+  }
+  .nav-link:last-child {
+    margin-left: 40px;
+
+  }
+  
+  .nav-link:hover {
+    background-color: #555; 
+  }
+  
+ 
