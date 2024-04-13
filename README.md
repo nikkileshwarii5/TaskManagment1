@@ -36,3 +36,6 @@ Sidebar Management: Users can show or hide the board sidebar for a more focused 
 ![Screenshot 1](https://github.com/nikkileshwarii5/TaskManagment1/blob/1b5d87a648441422ee6f8c27780d881493136568/Screenshot%20(226).png)
 
 ![Screenshot 1](https://github.com/nikkileshwarii5/TaskManagment1/blob/f66e58edf3932fd845402937ca0e8c153b089116/Screenshot%20(227).png)
+
+
+![Screenshot 1](https://github.com/nikkileshwarii5/TaskManagment1/blob/87aa27c449048b2c4210f08c166745e87d51ccff/Screenshot%20(228).png)
